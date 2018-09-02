@@ -1,0 +1,66 @@
+h1, h2, h3, h4, p, ul, ol, hr, blockquote {
+  max-width: 75%;
+  margin: 0 auto;
+}
+h1, h2, h3, h4 {
+  color: $color2;
+  margin-bottom: 1em;
+}
+p {
+  position: relative;
+  line-height: 1.7;
+  margin-bottom: 3rem;
+}
+.img {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+p > a {
+  color: $color2;
+  border-bottom: 1px solid $color-accent;
+  transition: all .4s;
+  &:hover {
+    color: $color-accent;
+  }
+}
+hr {
+  border: 0;
+  border-bottom: 1px dashed lighten($color1, 30%);
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+& > ul {
+  list-style: inside;
+  margin-bottom: 3rem;
+  ul, ol {
+    max-width: 100%;
+  }
+}
+& > ol {
+  list-style: inside;
+  list-style-type: decimal;
+  margin-bottom: 3rem;
+  ul, ol {
+    max-width: 100%;
+    padding-left: 4rem;
+  }
+}
+blockquote {
+  position: relative;
+  font-size: 3rem;
+  font-style: italic;
+  p {
+    max-width: 100%;
+    padding-left: 5rem;
+    line-height: 1.3;
+  }
+  &::before {
+    content: "\275D";
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 6rem;
+    line-height: 1;
+    font-style: normal;
+  }
+}

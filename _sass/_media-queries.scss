@@ -1,0 +1,205 @@
+@media (max-width: 1180px) {
+  body {
+    font-size: 1.7rem;
+  }
+  aside {
+    .aside-content {
+      padding: 4rem;
+      header h1 {
+        font-size: 3rem;
+      }
+    }
+  }
+  main > div {
+    padding: 4rem;
+    h1, h2, h3, h4, p {
+      max-width: 80%;
+    }
+    .post-header, .page-header {
+      h2 {
+        font-size: 3.5rem;
+      }
+    }
+  }
+}
+@media (max-width: 1024px) {
+  aside {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: unset;
+    height: auto;
+    width: 100%;
+    .aside-overlay {
+      background: rgba(16, 19, 24, 0.8);
+    }
+    .aside-content {
+      position: relative;
+      bottom: unset;
+      top: unset;
+      left: unset;
+      header {
+        padding: 4rem 0;
+        p {
+          margin-bottom: 0;
+          padding-right: 8rem;
+        }
+      }
+      .menu {
+        position: fixed;
+        visibility: hidden;
+        opacity: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 4rem;
+        z-index: 9;
+        transition: opacity .4s;
+        background-color: hsla(0, 0%, 5%, .9);
+      }
+      .menu-toggle {
+        display: block;
+        position: absolute;
+        top: 50%;
+        margin-top: -1rem;
+        right: 4rem;
+        width: 2.6rem;
+        height: 2rem;
+        z-index: 10;
+        cursor: pointer;
+        span, span::before, span::after {
+          content: '';
+          position: absolute;
+          top: .8rem;
+          width: 100%;
+          height: .3rem;
+          background-color: darken($color3, 20%);
+          transition: all .2s;
+        }
+        span::before {
+          top: -.8rem;
+        }
+        span::after {
+          top: .8rem;
+        }
+      }
+    }
+  }
+  .menu-open aside .aside-content {
+    .menu {
+      visibility: visible;
+      opacity: 1;
+      nav {
+        font-size: 3rem;
+        li {
+          margin-bottom: 0;
+        }
+      }
+    }
+    .menu-toggle {
+      span {
+        background-color: transparent;
+      }
+      span::before, span::after {
+        top: 0;
+      }
+      span::before {
+        transform: rotate(45deg);
+      }
+      span::after {
+        transform: rotate(-45deg);
+      }
+    }
+  }
+  main {
+    padding-right: 0;
+    & > div {
+      h1, h2, h3, h4, p, ul, ol, hr, blockquote {
+        max-width: 100%;
+      }
+    }
+    footer {
+      margin-top: 4rem;
+      padding: 4rem;
+    }
+  }
+}
+@media (max-width: 768px) {
+  body {
+    font-size: 1.5rem;
+  }
+  aside {
+    .aside-content {
+      padding: 2rem;
+      header {
+        padding: 2rem 0;
+        h1 {
+          font-size: 2.5rem;
+        }
+      }
+    }
+  }
+  .menu-open aside .aside-content {
+    .menu {
+      padding: 2rem;
+    }
+  }
+  main {
+    & > div {
+      padding: 2rem;
+      p, & > ul, & > ol, blockquote {
+        margin-bottom: 2rem;
+      }
+      hr, .img {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+      }
+      .post-header, .page-header {
+        margin-bottom: 2rem;
+        h2 {
+          font-size: 2.5rem;
+        }
+      }
+      .read-more {
+        a {
+          padding: .5rem 1rem;
+        }
+      }
+    }
+    footer {
+      padding: 2rem;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 55%;
+  }
+}
+
+@media (max-width: 360px) {
+  html {
+    font-size: 50%;
+  }
+}
+
+@media (min-width: 1440px) {
+  html {
+    font-size: 65%;
+  }
+}
+
+@media (min-width: 1600px) {
+  html {
+    font-size: 70%;
+  }
+}
+
+@media (min-width: 1920px) {
+  html {
+    font-size: 80%;
+  }
+}

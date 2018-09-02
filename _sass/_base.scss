@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Muli:400,400i');
+
+*, *::after, *::before { margin: 0; padding: 0; box-sizing: inherit; }
+html { font-size: 62.5%; }
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 1.8rem;
+  line-height: 1.5;
+  color: $color1;
+}

@@ -1,0 +1,165 @@
+---
+---
+@import "variables";
+@import "base";
+@import "common";
+
+// Styling Starts Here
+aside {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 30%;
+  .aside-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: linear-gradient(to bottom, rgba(22,27,33,.25), rgba(16, 19, 24, 0.9));
+  }
+  .aside-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 6rem;
+    color: $color3;
+    header {
+      h1 {
+        font-size: 3.5rem;
+        margin-bottom: 1rem;
+      }
+      p {
+        margin-bottom: 3rem;
+        color: darken($color3, 20%);
+      }
+    }
+    .menu-toggle {
+      display: none;
+    }
+    nav {
+      margin-bottom: .5rem;
+      li {
+        margin-bottom: .5rem;
+        a {
+          color: darken($color3, 20%);
+          transition: all .4s;
+          &:hover {
+            color: $color3;
+          }
+          &.active {
+            color: $color3;
+          }
+        }
+      }
+    }
+    .social {
+      li {
+        display: inline-block;
+        margin-right: .4rem;
+        background-color: darken($color3, 20%);
+        border-radius: 50%;
+        transition: all .4s;
+        &:hover {
+          background-color: $color3;
+        }
+        a {
+          display: block;
+          padding: 1rem;
+        }
+        svg {
+          width: 2rem;
+          height: 2rem;
+          display: block;
+          stroke: $color2;
+        }
+      }
+    }
+  }
+}
+
+main {
+  padding-right: 30%;
+  & > div {
+    padding: 6rem;
+    @import "post";
+    .post-item {
+      margin-bottom: 4rem;
+    }
+    .post-header, .page-header {
+      margin-bottom: 4rem;
+      h2 {
+        font-size: 4.5rem;
+        color: $color2;
+        margin-bottom: 1rem;
+        transition: all .4s;
+        &:hover {
+          color: $color-accent;
+        }
+      }
+      .date {
+        color: lighten($color1, 20%);
+      }
+    }
+    .post-thumbnail {
+      margin-bottom: 4rem;
+    }
+    .read-more {
+      border: none;
+      font: inherit;
+      background-color: $color-accent;
+      color: $color3;
+      border-radius: 3px;
+      font-size: 1.4rem;
+      margin-top: 1rem;
+      transition: all .4s;
+      a {
+        display: block;
+        padding: .7rem 2rem;
+      }
+      &:hover {
+        background-color: lighten($color-accent, 10%);
+      }
+    }
+    .pagination {
+      position: relative;
+      margin-top: 8rem;
+      & > div {
+        position: absolute;
+        top: 0;
+        font-size: 1.4rem;
+        width: 50%;
+        text-align: center;
+      }
+      .newer {
+        left: 0;
+        padding-right: .5rem;
+      }
+      .older {
+        right: 0;
+        padding-left: .5rem;
+      }
+      a {
+        background-color: $color-accent;
+        color: $color3;
+        display: block;
+        padding: 1.5rem;
+        border-radius: 3px;
+        transition: all .4s;
+        &:hover {
+          background-color: lighten($color-accent, 10%);
+        }
+      }
+    }
+  }
+  footer {
+    margin-top: 8rem;
+    padding: 0 6rem 6rem;
+    font-size: 1.3rem;
+    color: lighten($color1, 20%);
+  }
+}
+
+@import "media-queries";
