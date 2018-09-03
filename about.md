@@ -5,4 +5,4 @@ permalink: /about/
 thumbnail: "/images/pages/about.jpg"
 ---
 
-About Page
+Ini adalah halaman about yang nantinya akan jadi tempat untuk menaruh info tentang pemilik dari blog ini.
