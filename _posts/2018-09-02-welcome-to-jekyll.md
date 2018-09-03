@@ -38,4 +38,4 @@ Aenean eu mauris sed dolor fringilla commodo scelerisque laoreet mauris. Suspend
 
 Aenean at libero ut eros varius aliquam maximus a turpis. Suspendisse sapien odio, eleifend nec posuere accumsan, ullamcorper id massa. Nullam id suscipit arcu. Duis non semper enim, malesuada mollis neque.
 
-![](/images/posts/1500x500.jpg)
+![null](/images/posts/1500x500.jpg)
