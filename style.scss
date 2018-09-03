@@ -87,7 +87,7 @@ main {
     padding: 6rem;
     @import "post";
     .post-item {
-      margin-bottom: 4rem;
+      margin-bottom: 8rem;
     }
     .post-header, .page-header {
       margin-bottom: 4rem;
@@ -106,6 +106,8 @@ main {
     }
     .post-thumbnail {
       margin-bottom: 4rem;
+      max-width: 128rem;
+      margin: 0 auto;
     }
     .read-more {
       border: none;
