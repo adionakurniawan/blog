@@ -1,4 +1,5 @@
 ---
+title: "Welcome to Jekyll!!"
 thumbnail: "/images/posts/welcome-to-jekyll.jpg"
 ---
 
