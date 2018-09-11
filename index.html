@@ -16,7 +16,7 @@ thumbnail: "/images/pages/home.jpg"
     </div>
     {% endif %}
     <p>{{ post.excerpt | strip_html | strip_newlines | truncatewords: 40 }}</p>
-    <p><button class="read-more"><a href="{{ post.url }}">Read More</a></button></p>
+    <p><a href="{{ post.url }}" class="read-more">Read More</a></p>
   </div>
   {% endfor %}
   {% if paginator.total_pages >= 1 %}
