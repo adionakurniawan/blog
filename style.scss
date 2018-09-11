@@ -108,6 +108,12 @@ main {
       margin-bottom: 4rem;
       max-width: 128rem;
       margin: 0 auto;
+      text-align: center;
+      > a {
+        img {
+          width: auto;
+        }
+      }
     }
     .read-more {
       border: none;
