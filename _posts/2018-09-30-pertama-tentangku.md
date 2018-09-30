@@ -18,6 +18,6 @@ Mungkin itu dulu yang bisa kuceritakan untuk kurang lebihnya mungkin kita bisa s
 
 Sampai jumpa di post berikutnya.
 
-Jangan sungkan untuk melihat profil saya lebih lanjut dengan klik di tombol sosmed saya atau ke halaman about dari website ini.
+Jangan sungkan untuk melihat profil saya lebih lanjut dengan klik di tombol sosmed seperti [Facebook](https://www.facebook.com/adionakurniawan), [Twitter ](https://twitter.com/adionakurniawan)dan [Youtube ](https://www.youtube.com/channel/UCCM04WdV5sVd_Fhtf9IIZuw?view_as=subscriber)saya atau ke halaman [kontak  ](https://adikurniawan.me/contact/)dari website ini.
 
 Terimakasih.
