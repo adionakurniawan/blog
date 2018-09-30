@@ -16,7 +16,7 @@ Hobiku sendiri adalah bermain game, travelling, listening music, watching movie/
 
 Mungkin itu dulu yang bisa kuceritakan untuk kurang lebihnya mungkin kita bisa saling berbicara secara pribadi atau dalam diskusi di komunitas aku akan sangat menghargai hal itu karena aku juga bukan orang yang tertutup terhadap orang luar selama memang niatnya tidak untuk hal buruk.
 
-Jangan sungkan untuk melihat profilkulebih lanjut dengan klik di tombol sosmed seperti [Facebook](https://www.facebook.com/adionakurniawan), [Twitter ](https://twitter.com/adionakurniawan)dan [Youtube ](https://www.youtube.com/channel/UCCM04WdV5sVd_Fhtf9IIZuw?view_as=subscriber)atau ke halaman [kontak  ](https://adikurniawan.me/contact/)dari website ini.
+Jangan sungkan untuk melihat profilkulebih lanjut dengan klik di tombol sosmed seperti [Facebook](https://www.facebook.com/adionakurniawan), [Twitter ](https://twitter.com/adionakurniawan)dan [Youtube](https://www.youtube.com/channel/UCCM04WdV5sVd_Fhtf9IIZuw?view_as=subscriber) atau ke halaman [kontak  ](https://adikurniawan.me/contact/)dari website ini.
 
 Sampai jumpa di post berikutnya.
 
