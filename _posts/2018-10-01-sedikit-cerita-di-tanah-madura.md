@@ -32,4 +32,4 @@ Berikut ini adalah beberapa foto yang berhasil kuambil dengan ponsel kamera, say
 
 Dan berikut ini adalah video amatir buatan saya pribadi, hope you enjoy it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TeIsFBR4v8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/TeIsFBR4v8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
