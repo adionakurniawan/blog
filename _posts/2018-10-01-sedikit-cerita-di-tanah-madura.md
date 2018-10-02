@@ -12,8 +12,22 @@ Bagi aku pribadi jujur meski sering melihat pulau Madura dari kota Surabaya, tap
 
 Bermula saat pikiran penuh heran saat ada tawaran untuk berlibur ke Gili Labak, tentu karena aku belum pernah sekalipun pergi ke Madura, dan selama ini selalu banyak rasa ingin tapi tidak pernah sempat karena malas atau lebih suka menghabiskan waktu dengan gaming time di weekend holiday. Namun beberapa kali suka iri melihat foto teman yang sudah berhasil mengabadikan beberapa foto mereka di tempat indah itu, indah? ya fotonya memang bagus oleh karenanya aku bulatkan tekad untuk berangkat, cuma berdua sama partner travel dadakan guru kebanggaan hahahaa.
 
+![Rute Perjalanan](/images/posts/peta-gili-labak.jpg)
+
 Gili Labak sendiri adalah pulau kecil di tenggara pulau Madura, berada di kabupaten Sumenep. Butuh waktu 4-5 jam waktu tempuh dari Surabaya menuju Sumenep, di Sumenep akan berhenti di pelabuhan Saronggi, sekaligus istirahat pasca perjalanan panjang dari Surabaya dan yang akan menjadi titik perjalanan panjang kembali dengan menaiki kapal, rute yang kutempuh dalam perjalanan tidak langsung menuju Pulau Gili Labak, tapi akan menuju Pulau Gili Genting terlebih dulu yaitu akan disambut oleh pantai Sembilan, suguhan awal yang cukup menarik karena di pantai sembilan ini menyediakan berbagai macam spot foto dengan properti yang sudah tersedia untuk dipakai, untuk pantainya sendiri juga sudah cukup memanjakan mata.
 
 Tentu saja menu utama liburan kali ini yang ditunggu-tunggu yaitu di Pulau Gili Labak, kenapa? pantainya indah banget, warna airnya sangat  memukau, dan tentunya satu wahana yang sangat aku ingin-inginkan yaitu snorkling. Mandi di laut itu sangat menyenangkan menurutku karena rasanya menyenangkan, membuatmu bebas mengambang di air dengan merasakan kesegaran air dan kebebasan yang kamu bisa rasakan saat memasukin Laut yang begitu luas.
 
 Berikut ini adalah beberapa foto yang berhasil kuambil dengan ponsel kamera, sayang sekali rasanya ditempat sebagus itu tapi belum punya kamera bagus untuk mengambil foto atau video, doakan next liburan punya lah ya, haha.
+
+![Mentari Siap Memunculkan Dirinya](/images/posts/1.jpg)
+
+![Pantai Sembilan](/images/posts/2.jpg)
+
+![She looks cool right?](/images/posts/3.jpg)
+
+![Love this sea water](/images/posts/4.jpg)
+
+![Nongkrong? disini bisa. . . .](/images/posts/5.jpg)
+
+Dan berikut ini adalah video amatir buatan saya pribadi, hope you enjoy it.
