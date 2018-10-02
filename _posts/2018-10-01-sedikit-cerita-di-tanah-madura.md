@@ -30,6 +30,8 @@ Berikut ini adalah beberapa foto yang berhasil kuambil dengan ponsel kamera, say
 
 ![Nongkrong? disini bisa. . . .](/images/posts/5.jpg)
 
+Itu tadi adalah beberapa contoh foto dari sekian foto yang sudah kuambil, tentu sangat ingin mengulang kembali kesana suatu nanti. Tentunya kedepan akan kuusahakan untuk bisa mengisi kembali memori didalam sini dengan liburan liburan yang lainnya, So ditunggu untuk post berikutnya.
+
 Dan berikut ini adalah video amatir buatan saya pribadi, hope you enjoy it.
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/TeIsFBR4v8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="840" height="473" src="https://www.youtube.com/embed/TeIsFBR4v8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
